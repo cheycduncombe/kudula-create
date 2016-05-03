@@ -1,0 +1,2 @@
+# kudula-create
+ruby project
